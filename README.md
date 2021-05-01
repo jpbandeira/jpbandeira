@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+
+## My Skills!
+
+<br />
+
+<div align="center" >
+  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=jpbandeira&theme=radical&count_private=true&show_icons=true" alt="JPbandeiraLima's github stats" />
+</div>
