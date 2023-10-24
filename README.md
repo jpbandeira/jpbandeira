@@ -5,7 +5,7 @@
 - **Intern** in a project owned by **Hewlett Packard (HP)**: I worked as **QA** developing **automated tests**
 - **Intern** in a project owned by **Hewlett Packard (HP)**: I worked as **Software Engineer** developing **web systems**
 - **Developer** in a project owned by **Hewlett Packard Enterprise (HPE)**: I worked as **Software Engineer** developing a **security system**
-- **Developer** in a project owned by **Hewlett Packard Enterprise (HPE)**: I worked as **Software Engineer** developing a **authorization API** (**CURRENT JOB**)
+- **Developer** in a project owned by **Hewlett Packard Enterprise (HPE)**: I worked as **Software Engineer** developing an **authorization API** (**CURRENT JOB**)
 
 <br />
 
