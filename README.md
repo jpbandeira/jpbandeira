@@ -1,12 +1,6 @@
 ## Hi there 👋 
 ### My name is João Pedro and I’m currently working on Instituto Atlântico in a project owned by Hewlett Packard Enterprise (HPE)
 
-## Experiences:
-- **Intern** in a project owned by **Hewlett Packard (HP)**: I worked as **QA** developing **automated tests**
-- **Intern** in a project owned by **Hewlett Packard (HP)**: I worked as **Software Engineer** developing **web systems**
-- **Developer** in a project owned by **Hewlett Packard Enterprise (HPE)**: I worked as **Software Engineer** developing a **security system**
-- **Developer** in a project owned by **Hewlett Packard Enterprise (HPE)**: I worked as **Software Engineer** developing an **authorization API** (**CURRENT JOB**)
-
 <br />
 
 <div style="display: inline_block"><br>
